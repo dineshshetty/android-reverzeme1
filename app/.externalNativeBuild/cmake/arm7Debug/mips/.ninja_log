@@ -1,0 +1,3 @@
+# ninja log v5
+0	55	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	380aecd8aea1004b
+55	90	0	/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm7Debug/obj/mips/libhello-jni.so	2803fb4848b51987

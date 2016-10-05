@@ -1,0 +1,3 @@
+/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm8Debug/mips/CMakeFiles/edit_cache.dir
+/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm8Debug/mips/CMakeFiles/rebuild_cache.dir
+/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm8Debug/mips/CMakeFiles/hello-jni.dir

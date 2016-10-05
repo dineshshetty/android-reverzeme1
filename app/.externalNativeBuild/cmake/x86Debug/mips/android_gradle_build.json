@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/Users/dns/Desktop/reverzeme/app/src/main/cpp/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/dns/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/x86Debug/mips --target clean"
+	],
+	"libraries" : 
+	{
+		"hello-jni-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "hello-jni",
+			"buildCommand" : "/Users/dns/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/x86Debug/mips --target hello-jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /Users/dns/Library/Android/sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dns/Library/Android/sdk/ndk-bundle/platforms/android-15/arch-mips -Dhello_jni_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/dns/Desktop/reverzeme/app/src/main/cpp/hello-jni.c",
+					"workingDirectory" : "/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/x86Debug/mips"
+				}
+			],
+			"output" : "/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/x86Debug/obj/mips/libhello-jni.so",
+			"toolchain" : "18172873258901631997"
+		}
+	},
+	"toolchains" : 
+	{
+		"18172873258901631997" : 
+		{
+			"cCompilerExecutable" : "/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
