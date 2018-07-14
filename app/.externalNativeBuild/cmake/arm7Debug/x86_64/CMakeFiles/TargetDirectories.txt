@@ -1,3 +1,0 @@
-/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm7Debug/x86_64/CMakeFiles/edit_cache.dir
-/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm7Debug/x86_64/CMakeFiles/rebuild_cache.dir
-/Users/dns/Desktop/reverzeme/app/.externalNativeBuild/cmake/arm7Debug/x86_64/CMakeFiles/hello-jni.dir

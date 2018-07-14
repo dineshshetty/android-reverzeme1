@@ -1,0 +1,14 @@
+Executable : /Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp
+-B/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-23
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/universal/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/dns/Library/Android/sdk/ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=/Users/dns/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

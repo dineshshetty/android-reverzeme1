@@ -1,0 +1,3 @@
+/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a/CMakeFiles/hello-jni.dir

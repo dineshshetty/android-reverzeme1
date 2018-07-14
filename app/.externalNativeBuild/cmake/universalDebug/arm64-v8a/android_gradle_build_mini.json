@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Debug-arm64-v8a": {
+      "artifactName": "hello-jni",
+      "buildCommand": "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/arm64-v8a --target hello-jni",
+      "abi": "arm64-v8a",
+      "output": "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/universal/debug/obj/arm64-v8a/libhello-jni.so"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# ninja log v5
+0	83	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	1a265d139e1f3b4f
+83	123	0	/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/x86/debug/obj/x86/libhello-jni.so	e358140167c7228e
+0	61	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	1a265d139e1f3b4f
+61	94	0	/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/x86/debug/obj/x86/libhello-jni.so	e358140167c7228e

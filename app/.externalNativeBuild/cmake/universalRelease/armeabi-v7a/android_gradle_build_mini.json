@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalRelease/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Release-armeabi-v7a": {
+      "artifactName": "hello-jni",
+      "buildCommand": "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalRelease/armeabi-v7a --target hello-jni",
+      "abi": "armeabi-v7a",
+      "output": "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/universal/release/obj/armeabi-v7a/libhello-jni.so"
+    }
+  }
+}
