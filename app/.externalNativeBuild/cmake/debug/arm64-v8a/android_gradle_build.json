@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"hello-jni-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "hello-jni",
+			"buildCommand" : "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/debug/arm64-v8a --target hello-jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dns/Library/Android/sdk/ndk-bundle/sysroot -Dhello_jni_EXPORTS  -isystem /Users/dns/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/hello-jni.c",
+					"workingDirectory" : "/Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so",
+			"toolchain" : "18172873258901631997"
+		}
+	},
+	"toolchains" : 
+	{
+		"18172873258901631997" : 
+		{
+			"cCompilerExecutable" : "/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

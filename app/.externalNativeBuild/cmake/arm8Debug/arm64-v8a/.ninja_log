@@ -1,5 +1,0 @@
-# ninja log v5
-0	60	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	9d3a9478afb146d9
-60	96	0	/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/arm8/debug/obj/arm64-v8a/libhello-jni.so	3bac10c103ab9e73
-0	53	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	9d3a9478afb146d9
-53	90	0	/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/arm8/debug/obj/arm64-v8a/libhello-jni.so	3bac10c103ab9e73

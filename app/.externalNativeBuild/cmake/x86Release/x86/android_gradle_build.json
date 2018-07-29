@@ -2,12 +2,12 @@
 {
 	"buildFiles" : 
 	[
-		"/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
+		"/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
 	],
 	"cFileExtensions" : [ "c" ],
 	"cleanCommands" : 
 	[
-		"/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/x86Release/x86 --target clean"
+		"/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/x86Release/x86 --target clean"
 	],
 	"libraries" : 
 	{
@@ -15,18 +15,18 @@
 		{
 			"abi" : "x86",
 			"artifactName" : "hello-jni",
-			"buildCommand" : "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/x86Release/x86 --target hello-jni",
+			"buildCommand" : "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/x86Release/x86 --target hello-jni",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dns/Library/Android/sdk/ndk-bundle/sysroot -Dhello_jni_EXPORTS  -isystem /Users/dns/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
-					"src" : "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/hello-jni.c",
-					"workingDirectory" : "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/x86Release/x86"
+					"src" : "/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/hello-jni.c",
+					"workingDirectory" : "/Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/x86Release/x86"
 				}
 			],
-			"output" : "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/x86/release/obj/x86/libhello-jni.so",
+			"output" : "/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/x86/release/obj/x86/libhello-jni.so",
 			"toolchain" : "18172873258901631997"
 		}
 	},

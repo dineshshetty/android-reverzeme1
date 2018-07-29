@@ -1,10 +1,10 @@
 Executable : /Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp
--B/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/x86Debug/x86
+-H/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp
+-B/Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/x86Debug/x86
 -DANDROID_ABI=x86
 -DANDROID_PLATFORM=android-23
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/x86/debug/obj/x86
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/x86/debug/obj/x86
 -DCMAKE_BUILD_TYPE=Debug
 -DANDROID_NDK=/Users/dns/Library/Android/sdk/ndk-bundle
 -DCMAKE_TOOLCHAIN_FILE=/Users/dns/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake

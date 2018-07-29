@@ -1,0 +1,11 @@
+# ninja log v5
+0	43	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ab6dad36d3b74236
+43	65	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	964bc882be66a51b
+0	46	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ab6dad36d3b74236
+46	86	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	964bc882be66a51b
+1	36	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ab6dad36d3b74236
+36	60	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	964bc882be66a51b
+0	52	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ab6dad36d3b74236
+52	84	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	964bc882be66a51b
+0	40	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ab6dad36d3b74236
+40	64	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	964bc882be66a51b

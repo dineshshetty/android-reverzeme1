@@ -1,16 +1,16 @@
 {
   "buildFiles": [
-    "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
+    "/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/x86 --target clean"
+    "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/x86 --target clean"
   ],
   "libraries": {
     "hello-jni-Debug-x86": {
       "artifactName": "hello-jni",
-      "buildCommand": "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/x86 --target hello-jni",
+      "buildCommand": "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/x86 --target hello-jni",
       "abi": "x86",
-      "output": "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/universal/debug/obj/x86/libhello-jni.so"
+      "output": "/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/universal/debug/obj/x86/libhello-jni.so"
     }
   }
 }

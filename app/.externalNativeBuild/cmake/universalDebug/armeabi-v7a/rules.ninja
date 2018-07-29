@@ -42,7 +42,7 @@ rule C_SHARED_LIBRARY_LINKER__hello-jni
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp -B/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a
+  command = /Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp -B/Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a
   description = Re-running CMake...
   generator = 1
 

@@ -2,12 +2,12 @@
 {
 	"buildFiles" : 
 	[
-		"/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
+		"/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/CMakeLists.txt"
 	],
 	"cFileExtensions" : [ "c" ],
 	"cleanCommands" : 
 	[
-		"/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a --target clean"
+		"/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a --target clean"
 	],
 	"libraries" : 
 	{
@@ -15,18 +15,18 @@
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "hello-jni",
-			"buildCommand" : "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a --target hello-jni",
+			"buildCommand" : "/Users/dns/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a --target hello-jni",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/dns/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dns/Library/Android/sdk/ndk-bundle/sysroot -Dhello_jni_EXPORTS  -isystem /Users/dns/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
-					"src" : "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/src/main/cpp/hello-jni.c",
-					"workingDirectory" : "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a"
+					"src" : "/Users/dns/Desktop/android-reverzeme1/app/src/main/cpp/hello-jni.c",
+					"workingDirectory" : "/Users/dns/Desktop/android-reverzeme1/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a"
 				}
 			],
-			"output" : "/Users/dns/Downloads/android-ndk-master/android-reverzeme1/app/build/intermediates/cmake/arm7/release/obj/armeabi-v7a/libhello-jni.so",
+			"output" : "/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/arm7/release/obj/armeabi-v7a/libhello-jni.so",
 			"toolchain" : "18172873258901631997"
 		}
 	},

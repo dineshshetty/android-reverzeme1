@@ -1,0 +1,11 @@
+# ninja log v5
+0	35	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ae7d8ff65ff0e770
+35	58	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	de53e6754a8079c8
+0	41	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ae7d8ff65ff0e770
+41	86	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	de53e6754a8079c8
+0	36	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ae7d8ff65ff0e770
+36	60	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	de53e6754a8079c8
+0	47	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ae7d8ff65ff0e770
+47	80	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	de53e6754a8079c8
+0	37	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	ae7d8ff65ff0e770
+37	61	0	/Users/dns/Desktop/android-reverzeme1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	de53e6754a8079c8
